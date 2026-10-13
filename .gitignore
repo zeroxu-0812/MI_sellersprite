@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 运行产物 / 报告输出
+output/
+MI_auto/output*/
+MI_auto/MI/output*/
+MI_auto/MI/data/
+
+# 敏感凭证 —— 绝不提交
+.env
+.superpowers/
+*token_cache*.json
+
+# 类目缓存（每次抓取会刷新）
+categories_cache.json
+
+# 杂项
+*.log
+.DS_Store

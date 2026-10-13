@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.token_cache.json
+output/
+.venv/
+.pytest_cache/
+scraper.log
+*.xlsx

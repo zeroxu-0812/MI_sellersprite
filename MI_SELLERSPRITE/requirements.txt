@@ -1,0 +1,4 @@
+# 运行依赖（爬取逻辑所需；鉴权模块 refresh_tokens/sellersprite_auth/signing 仅用标准库）
+requests
+pandas
+openpyxl

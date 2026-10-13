@@ -1,0 +1,8 @@
+pandas>=1.5.0
+openpyxl>=3.0.10
+matplotlib>=3.6.0
+numpy>=1.23.0
+zhipuai>=2.0.1
+markdown>=3.4.0
+weasyprint>=60.0
+python-pptx>=1.0.0
